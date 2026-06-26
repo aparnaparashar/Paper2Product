@@ -2,7 +2,7 @@
 
 > **Give your research the weight it deserves.**
 
-Turn a research paper into a venture-ready product blueprint — automatically.
+Turn a research paper into a venture-ready product blueprint - automatically.
 
 🔗 **Live app:** [paper2product.vercel.app]
 
