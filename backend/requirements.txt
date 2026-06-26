@@ -5,8 +5,13 @@ pydantic-settings>=2.10.1
 python-multipart>=0.0.20
 
 # Database — Neon PostgreSQL
-sqlalchemy==2.0.43
-psycopg2-binary==2.9.9
+# Pin to a known-good patch to avoid SQLAlchemy internals error:
+# "TypeError: Can't replace canonical symbol for '__firstlineno__' with new int value"
+sqlalchemy==2.0.42
+psycopg[binary]==3.2.4
+
+
+
 
 # Cache — Upstash Redis
 upstash-redis==1.1.0

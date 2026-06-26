@@ -7,9 +7,10 @@ class Settings(BaseSettings):
     debug: bool = False
 
     # Neon PostgreSQL
-    database_url: str = "postgresql://localhost/rtp"
+    database_url: str = "postgresql+psycopg://localhost/rtp"
 
     # Upstash Redis (optional)
+
     upstash_redis_rest_url: str = ""
     upstash_redis_rest_token: str = ""
 
