@@ -4,7 +4,7 @@
 
 Turn a research paper into a venture-ready product blueprint — automatically.
 
-🔗 **Live app:** [paper2product.vercel.app](https://paper2product.vercel.app)
+🔗 **Live app:** [paper2product.vercel.app]
 
 ---
 
