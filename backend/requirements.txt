@@ -8,7 +8,7 @@ python-multipart>=0.0.20
 # Pin to a known-good patch to avoid SQLAlchemy internals error:
 # "TypeError: Can't replace canonical symbol for '__firstlineno__' with new int value"
 sqlalchemy==2.0.42
-psycopg[binary]==3.2.4
+psycopg2-binary
 
 
 
