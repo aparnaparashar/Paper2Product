@@ -4,7 +4,7 @@
 
 Turn a research paper into a venture-ready product blueprint - automatically.
 
-🔗 **Live app:** [paper2product.vercel.app]
+🔗 **Live app:** [paper2product.vercel.app](https://paper2-product.vercel.app/)
 
 ---
 
@@ -301,7 +301,7 @@ npm start
 
 ## App access
 
-🔗 **Live demo:** [https://paper2product.vercel.app](https://paper2product.vercel.app)
+🔗 **Live demo:** [https://paper2product.vercel.app](https://paper2-product.vercel.app/)
 
 Create a free account to upload your first paper — analysis typically completes in a few minutes.
 ⚠ DISCLAIMER : Paper Analysis might not work if the key is out of tokens !!
